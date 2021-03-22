@@ -1,2 +1,2 @@
-# c25
-add image for log, ground, box and bird
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
